@@ -14,7 +14,9 @@ namespace Bichos
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //Nopo Quiero que hayan conflictos donde no los hay
+            //Nopo Quiero que hayan conflictos donde no los hay
+            //Nopo Quiero que hayan conflictos donde no los hay
         }
     }
 }
