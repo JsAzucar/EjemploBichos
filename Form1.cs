@@ -12,9 +12,12 @@ namespace Bichos
             //Hola local
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        //private void Form1_Load(object sender, EventArgs e)
         {
-         
+            //Quiero que hayan conflictos donde no los hay
+            //Quiero que hayan conflictos donde no los hay
+            //Quiero que hayan conflictos donde no los hay
+
         }
     }
 }
