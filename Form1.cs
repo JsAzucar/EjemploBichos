@@ -4,7 +4,7 @@ namespace Bichos
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //En esta línea estoy agregando un nuevo cambio
         }
     }
 }
