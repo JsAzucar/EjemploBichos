@@ -16,7 +16,7 @@ namespace Bichos
              public DateTime? FechaNacimiento { get; set; }   // puede ser null si no la conoces
              public string Email { get; set; } = "remoto@bichos.sv";
              public string Telefono { get; set; } = "9999-9999";
-             public string Direccion { get; set; } = "";
+            
 
 
     
